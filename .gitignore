@@ -1,0 +1,13 @@
+# Documentation
+*.pdf
+LICENSE
+
+# Compiled Object files
+objs/
+
+# Executables
+ircserv
+
+# IDE files
+.vscode/
+.idea/
